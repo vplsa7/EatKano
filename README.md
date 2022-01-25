@@ -1,18 +1,18 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://pb.nichi.co/aware-pause-pistol?raw=true" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
 # EatKano
 
-_🦌 网页小游戏 🥛_
+__
 
 </div>
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉凛酱
 
 浏览量超10,000,000+
 
